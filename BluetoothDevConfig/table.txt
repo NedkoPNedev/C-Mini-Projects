@@ -1,0 +1,15 @@
+device_name000
+rom_revision001
+serial_number002
+bd_addr_part0010
+bd_addr_part1011
+bd_pass_part0012
+serial_baudrate100
+audio_bitrate101
+sleep_period102
+serial_parity200
+serial_data_bit201
+serial_stop_bit202
+bd_pass_part1020
+rom_checksum_part0021
+rom_checksum_part1022
